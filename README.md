@@ -1,4 +1,4 @@
-# learning-algorithm
+# coding-test
 
 ## Build Environment
 docker-compose build --force-rm
